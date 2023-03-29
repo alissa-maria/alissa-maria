@@ -3,7 +3,7 @@
 🧸 Interested in web development  
 ✨ ... & retro tech (｡•̀ᴗ-)✧
 
-<img src="https://64.media.tumblr.com/a0e7017bd44c88481fdccae3d94afe89/tumblr_ocrgbkluAJ1u06hngo1_1280.jpg" height="256"/>
+<!--- <img src="https://64.media.tumblr.com/a0e7017bd44c88481fdccae3d94afe89/tumblr_ocrgbkluAJ1u06hngo1_1280.jpg" height="256"/> --->
 
 
 <!---
