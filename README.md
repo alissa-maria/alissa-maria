@@ -1,7 +1,5 @@
-☁️ System engineer in IT/OT cyber security  
-🍯 Mainly code in C, Python & Julia  
-🧸 Interested in web development  
-✨ ... & retro tech (｡•̀ᴗ-)✧
+System engineer in IT/OT cyber security ☁️
+(｡•̀ᴗ-)✧
 
 <!--- <img src="https://64.media.tumblr.com/a0e7017bd44c88481fdccae3d94afe89/tumblr_ocrgbkluAJ1u06hngo1_1280.jpg" height="256"/> --->
 
