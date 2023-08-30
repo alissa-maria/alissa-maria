@@ -1,1 +1,1 @@
-all's well that ends well. ⋆⁺₊⋆ ☾ ⋆⁺₊⋆ ☁︎  
+In Between Thoughts...A New World ⋆⁺₊⋆ ☾ ⋆⁺₊⋆ ☁︎  
