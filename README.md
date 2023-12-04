@@ -1,1 +1,3 @@
-There is no exquisite beauty without some strangeness in the proportion. 
+    > trades my imperfect flesh for the immortality of the machine
+    > rusts
+    
